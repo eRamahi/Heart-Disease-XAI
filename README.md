@@ -209,9 +209,3 @@ Then open:
 ```text
 notebook/Heart_Disease_Risk_Prediction_XAI.ipynb
 ```
-
-## References
-
-- UCI Machine Learning Repository — Heart Disease: https://archive.ics.uci.edu/dataset/45/heart+disease
-- scikit-learn documentation: https://scikit-learn.org/stable/
-- SHAP documentation: https://shap.readthedocs.io/
